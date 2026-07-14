@@ -44,7 +44,8 @@
     "clsx": "^2.1.0",
     "tailwind-merge": "^3.5.0",
     "tsdown": "^0.22.7",
-    "typescript": "^7.0.2"
+    "typescript": "^7.0.2",
+    "unrun": "^0.3.1"
   },
   "keywords": [
     "utils",
